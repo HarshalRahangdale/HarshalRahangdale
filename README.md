@@ -3,11 +3,9 @@
 
 - Professionaly Looking for Some good opportunities in Tech 
 
-- 🌱 I’m currently learning **Java and Data Structures Algorithms**
+- 🌱 I’m currently learning **Relational Database Management System**
 
 - 👨‍💻 All of my projects are available at [github.com/HarshalRahangdale/](github.com/HarshalRahangdale/)
-
-- 💬 Ask me about *APIs , Frontend & Backend also some of DSA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
