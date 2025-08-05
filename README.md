@@ -1,3 +1,4 @@
+git clone https://github.com/HarshalRahangdale/harshal_portfolio.git
 <h1 align="center">Hi 👋, I'm Harshal</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
